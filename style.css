@@ -6,11 +6,20 @@
 }
 .sidebar{
     background-color: red;
-    width: 20vw;
+    width: 10vw;
+    height: 100vh;
+}
+.sidebar nav{
+    padding: 30px;
+}
+.sidebar nav li{
+    list-style-type: none;
+    font-size: 30px;
+    padding: 33px 0;
 }
 .main{
     background-color: yellow;
-    width: 80vw;
+    width: 90vw;
 }
 .container{
     display: flex;
