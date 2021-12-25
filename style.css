@@ -24,3 +24,29 @@
 .container{
     display: flex;
 }
+.infoContainer{
+    background-color: rgb(81, 255, 0);
+    height: 78vh;
+    width: 80vw;
+    margin: 144px auto;
+    /* margin-top: 19px; */
+    display: flex;
+    justify-content: space-around;
+
+}
+.devPic img{
+    height: 78vh;
+    
+
+}
+.devInfo{
+    
+}
+
+
+
+
+
+
+
+
