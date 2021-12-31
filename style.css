@@ -6,7 +6,7 @@
 }
 .sidebar{
     /* background-color: red; */
-    width: 10vw;
+    width: 434px;
     height: 100vh;
     background-color: rgb(133, 150, 143);
 }
@@ -81,6 +81,7 @@
 .moreabout{
     font-size: 22px;
     font-family: serif;
+    margin-top: 23px;
 
 }
 .sidebar nav li  a{
